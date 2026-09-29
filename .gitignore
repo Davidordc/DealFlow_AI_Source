@@ -1,0 +1,10 @@
+api/.venv/
+api/*.db
+*.db
+**/__pycache__/
+api/.pytest_cache/
+web/node_modules/
+web/dist/
+web/*.tsbuildinfo
+.env
+.DS_Store
